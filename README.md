@@ -2,7 +2,7 @@
 
 ## About Me
 Full Stack QA Engineer with over 3 years of hands-on experience in manual testing for fintech. Led a team of 4 testers for one year. Expanding skills in automation testing for UI and API using
-Java (Gradle, Selenide, JUnit5).
+Java (Gradle, Selenide, Rest Assured, JUnit5).
 
 **Technical Skills**
 + **Test Automation:** Java, Selenide, Gradle, JUnit5, REST-assured, Jenkins, Selenoid, Allure
