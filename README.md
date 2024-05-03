@@ -13,4 +13,13 @@ test cases in TestIT, Sfera.Functional testing
 ## My Projects
 | Course                                             | Repository                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Certificate                                                          |
 |----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------| 
-| [QA GURU Test Automation School](https://qa.guru/) | [WebUI Test Project](https://github.com/yuriyb78/QaGuruDiplom24) [API Test Project](https://github.com/yuriyb78/QaGuruDiplom24Api)||
+| [QA GURU Test Automation School](https://qa.guru/) | [WebUI Test Project](https://github.com/yuriyb78/QaGuruDiplom24)|
+||[API Test Project](https://github.com/yuriyb78/QaGuruDiplom24Api)||
+
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriyb78&show_icons=true&bg_color=00000000)
+
+## Contact
+https://t.me/yuriy_belyaev
+byur78@gmail.com
+
